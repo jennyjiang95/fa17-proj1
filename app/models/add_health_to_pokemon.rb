@@ -1,0 +1,2 @@
+class AddHealthToPokemon < ApplicationRecord
+end
