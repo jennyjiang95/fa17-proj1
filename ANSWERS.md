@@ -25,8 +25,13 @@ full_message returns an array of error messages. to_sentence turns array into a 
 
 # Give us feedback on the project and decal below!
 The instruction is a bit confusing but overall very fun!
+
+
+My Own Version:
 https://github.com/jennyjiang95/proj1_Shangjun_Jiang
 
+Forked version:
+https://github.com/jennyjiang95/fa17-proj1
 
 
 # Extra credit: Link your Heroku deployed app
